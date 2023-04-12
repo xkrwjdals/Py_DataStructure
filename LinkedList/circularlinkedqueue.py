@@ -38,4 +38,13 @@ class CircularLinkedQueue:
                 node = node.link
                 count += 1
             return count
-        
+
+    def display(self):
+        out = []
+        n = self.tail.link
+        for i in range(0, self.size()):
+            out.append(n.data)
+            n = n.link
+        return out
+
+
