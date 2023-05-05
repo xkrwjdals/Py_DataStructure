@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="50860e32-6a24-4a50-a9d4-3245adb3312c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/circularlinkedqueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/circularlinkedqueue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack/dfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/dfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack/stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/stack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

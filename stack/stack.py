@@ -21,3 +21,6 @@ class Stack:
     def peek(self):
         if not self.isEmpty():
             return self.top[-1]
+
+    def __str__(self):
+        return str(self.top[::-1])
