@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="50860e32-6a24-4a50-a9d4-3245adb3312c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/dfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/dfs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/selectionSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting&amp;Searching/sort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
       <recent name="$PROJECT_DIR$/stack" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="data_structure" />
       <option name="INTERPRETER_OPTIONS" value="" />
