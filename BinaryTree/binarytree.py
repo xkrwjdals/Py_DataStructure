@@ -38,3 +38,27 @@ def levelorder(root):
             print(n.data, end=' ')
             queue.enqueue(n.left)
             queue.enqueue(n.right)
+
+def count_node(n):
+    if n is None:
+        return 0
+    else :
+        return 1 + count_node(n.left) + count_node(n.right)
+
+def count_leaf(n):
+    if n is None:
+        return 0
+    elif n.left is None and n.right is None:
+        return 1
+    else :
+        return count_leaf(n.left) + count_leaf(n.right)
+
+def calc_height(n):
+    if n is None:
+        return 0
+    hLeft = calc_height(n.left)
+    hRight = calc_height(n.right)
+    if (hLeft > hRight) :
+        return hLeft + 1
+    else:
+        return hRight + 1
